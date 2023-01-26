@@ -268,6 +268,17 @@ body {
   color: #fff;
 }
 
+.contact .row form .input-group textarea {
+  width: 100%;
+  padding: 2rem;
+  font-size: 1.7rem;
+  background: none;
+  color: #fff;
+  border: none;
+  resize: none;
+  height: 15rem;
+}
+
 .contact .row form .btn {
   margin-top: 3rem;
   display: inline-block;
